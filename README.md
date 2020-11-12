@@ -4,7 +4,7 @@
 
 # API Used
 
-In this project the api I have used to fetch is from [OpenWatherMap](https://openweathermap.org/).
+In this project the api I have used to fetch is from [OpenWeatherMap](https://openweathermap.org/).
 
 # What is a PWA ?
 
